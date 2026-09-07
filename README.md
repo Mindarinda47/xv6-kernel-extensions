@@ -147,6 +147,3 @@ xv6 shell에서 각 `portfolio_*_test` 프로그램을 개별 실행할 수 있�
 - 기준 커밋과 출처: [`UPSTREAM.md`](UPSTREAM.md)
 - 저작권 및 제외 자료: [`docs/COPYRIGHT.md`](docs/COPYRIGHT.md)
 - 원본과 개선 구분: [`docs/ORIGINAL_REVIEW.md`](docs/ORIGINAL_REVIEW.md)
-
-강의자료, 과제 명세, 교수 제공 테스트, 제출 ZIP과 식별 정보가 남아 있는 실행 화면은
-포함하지 않습니다.
